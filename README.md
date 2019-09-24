@@ -1,6 +1,8 @@
 # XiaoMi NoteBook Pro for macOS Catalina & Mojave & High Sierra
 [![release](https://img.shields.io/badge/download-release-blue.svg)](https://github.com/daliansky/XiaoMi-Pro/releases) [![wiki](https://img.shields.io/badge/support-wiki-green.svg)](https://github.com/daliansky/XiaoMi-Pro/wiki) [![Chat](https://img.shields.io/badge/chat-tonymacx86-red.svg)](https://www.tonymacx86.com/threads/guide-xiaomi-mi-notebook-pro-high-sierra-10-13-6.242724)
 
+*DO NOT DOWNLOAD - WORK IN PROGRESS FOR XIAOMI MI AIR 13.3 8TH GEN*
+
 Hackintosh your XiaoMi Notebook Pro
 
 English
