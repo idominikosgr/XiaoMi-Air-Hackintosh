@@ -3,7 +3,7 @@
 
 Hackintosh your XiaoMi Notebook Pro
 
-English | [中文](README_CN.md)
+English
 
 ## Configuration
 
